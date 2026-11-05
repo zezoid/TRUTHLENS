@@ -1,0 +1,6 @@
+Model,accuracy,precision,recall,f1,Fake_Recall,Macro_F1,roc_auc
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Decision Tree,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+KNN,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Multinomial Naive Bayes,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Linear SVM,1.0,1.0,1.0,1.0,1.0,1.0,
